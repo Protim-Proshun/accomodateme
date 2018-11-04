@@ -1,0 +1,32 @@
+body{
+  background: url("image/ajax.jpg");
+  background-size: cover;
+  background-position: center;
+}
+html{
+  height: 100%;
+}
+#content{
+  text-align: center;
+  padding-top: 20%;
+}
+legend{
+  color: BLACK;
+  /* font-weight: 50; */
+  /* font-size: 2em; */
+}
+form{
+  color: Black;
+  font-weight: 50;
+  font-size: 1.25em;
+}
+input{
+  color: BLACK;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
